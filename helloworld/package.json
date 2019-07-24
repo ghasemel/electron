@@ -1,0 +1,16 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "meteor-node-stubs": "~0.2.4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
