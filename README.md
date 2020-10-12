@@ -1,2 +1,2 @@
-# A sample project in Electron 
+# how to use Electron 
 [link](https://www.electronjs.org/)
